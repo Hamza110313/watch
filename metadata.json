@@ -1,0 +1,8 @@
+{
+  "name": "Vespera Horology",
+  "description": "Contemporary timepiece storefront featuring curated Male, Female, Kids, and Horological Accessories collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
